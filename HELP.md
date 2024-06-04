@@ -9,7 +9,7 @@ Tener instalado postman
 Tener instalado Table Plus
 
 
-## Una vez clondo el proyecto correr en la consola
+## Una vez clonado el proyecto correr en la consola
 `mvn clean package`
 
 `docker-compose build`

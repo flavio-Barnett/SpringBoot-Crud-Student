@@ -6,21 +6,22 @@ Tener instalado docker
 
 Tener instalado postman
 
+Tener instalado Table Plus
 
 
-## correr en la consola
+## Una vez clondo el proyecto correr en la consola
 `mvn clean package`
 
 `docker-compose build`
 
 `docker-compose up -d`
 
-Abrir el table plus y agregar una nueva conexion y seleccionar la base de datos Mysql
+Despues de eso abrir el table plus y agregar una nueva conexion y seleccionar la base de datos Mysql
 
 ![Mi foto](images/demostracion2.png)
 
 
-dsps conectarlo en el puerto `5800` como se ve en esta imagen y en el nombre de la base de datos poner `db_school`
+dsps conectarlo en el puerto `5800` como se ve en esta imagen de abajo y en el nombre de la base de datos poner `db_school`
 
 User : `root`
 
